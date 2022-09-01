@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Albert's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,17 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+List of Favorite Things About CS193 (So Far)
 
-# Header 1
-## Header 2
-### Header 3
+- The Course Leads
+- The weekly Ice Breakers that allow me to move around and meet new people.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
